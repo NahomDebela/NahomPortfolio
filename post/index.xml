@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nahom Debela</title>
+    <link>https://nahomdebela.github.io/NahomPortfolio/post/</link>
+    <description>Recent content in Projects on Nahom Debela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nahomdebela.github.io/NahomPortfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting NBA Games</title>
+      <link>https://nahomdebela.github.io/NahomPortfolio/post/project-4/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomdebela.github.io/NahomPortfolio/post/project-4/</guid>
+      <description>My goal for this project was to successfully predict the winner of an NBA matchup. I web scraped 7566 samples from www.NBA.com and www.Basketball-reference.com. Data contained stats and the outcome of individual matchups across 7 NBA regular seasons. Tested the accuracy of 6 different models: Linear SVC, SVC, KNN, Decision Tree, Random Forest, Logistic Regression in predicting if an NBA team won or lost a game.  Please take a look at my complete report in my Github Repository!</description>
+    </item>
+    
+    <item>
+      <title>Will Smith vs. Denzel Washington</title>
+      <link>https://nahomdebela.github.io/NahomPortfolio/post/project-3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomdebela.github.io/NahomPortfolio/post/project-3/</guid>
+      <description>In this project I set out to compare actors Will Smith and Denzel Washington to answer the question of &amp;ldquo;Who is the better actor?&amp;rdquo; Data was web scraped from IMDB by an instructor. Data contained information on thousands of movies ranging from early 20th centuray to the present. In my analysis I compared the actors amongst eachother by many different factors besides simply movie rating. After my analysis, I was able to come to a conclusion based off key insights I found in the data.</description>
+    </item>
+    
+    <item>
+      <title>Project Measure</title>
+      <link>https://nahomdebela.github.io/NahomPortfolio/post/project-1/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomdebela.github.io/NahomPortfolio/post/project-1/</guid>
+      <description>Recorded over 20 body measurements from 10 real people. The data was then merged with other students data to fill out a full data set of measurements. Then from &amp;ldquo;Kaggle&amp;rdquo; I downloaded an NBA dataset that contained measurements of NBA players. I compared the average &amp;ldquo;ape index&amp;rdquo; (Wingspan / Height) of regular males to that of NBA players to see if NBA players on average had a larger ratio of wingspan to height than the average male.</description>
+    </item>
+    
+    <item>
+      <title>Yelp Application</title>
+      <link>https://nahomdebela.github.io/NahomPortfolio/post/project-2/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nahomdebela.github.io/NahomPortfolio/post/project-2/</guid>
+      <description>Parsed and inserted data from JSON to my database. Created Database using PostgreSQL and queried tables to be used in the application. Created User and Business Interface Application where the user could search for businesses by filtering between zipcodes, cities and states. Additionally, a user could search for other profiles and read profile information such as reviews that user left.  If you would like to take a look at the code or any related files.</description>
+    </item>
+    
+  </channel>
+</rss>
